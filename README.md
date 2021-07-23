@@ -1,2 +1,1 @@
-# ci-cd-demo
-use CI and CD
+# CI And CD Demo
